@@ -1,2 +1,2 @@
-# projeto2025_SCM
+# projeto2026_SCM
 Projeto da aula prática de Gerenciamento de Configuração
